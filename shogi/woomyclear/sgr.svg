@@ -15,7 +15,7 @@
    width="300"
    height="300"
    viewBox="0 0 300 300"
-   sodipodi:docname="sg.svg"
+   sodipodi:docname="sgr.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="C:\woomychess\shogi\woomyclear\sp.png"
    inkscape:export-xdpi="24"
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,8 +65,9 @@
      id="rect1378-5-7"
      width="290"
      height="290"
-     x="5"
-     y="5" />
+     x="-295"
+     y="-295"
+     transform="scale(-1)" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Splatoon1;-inkscape-font-specification:'Splatoon1 Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none"
@@ -82,43 +83,49 @@
      id="rect820"
      width="31.7435"
      height="31.7435"
-     x="134.12825"
-     y="14.369864" />
+     x="-165.87175"
+     y="-285.63013"
+     transform="scale(-1)" />
   <rect
      style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect820-9"
      width="31.7435"
      height="31.7435"
-     x="253.88663"
-     y="134.12825" />
+     x="-46.113373"
+     y="-165.87175"
+     transform="scale(-1)" />
   <rect
      style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect820-5"
      width="31.7435"
      height="31.7435"
-     x="134.12825"
-     y="253.88663" />
+     x="-165.87175"
+     y="-46.113373"
+     transform="scale(-1)" />
   <rect
      style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect820-9-9"
      width="31.7435"
      height="31.7435"
-     x="14.369873"
-     y="134.12825" />
+     x="-285.63013"
+     y="-165.87175"
+     transform="scale(-1)" />
   <rect
      style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect820-9-6"
      width="31.7435"
      height="31.7435"
-     x="253.88663"
-     y="14.369865" />
+     x="-46.113373"
+     y="-285.63013"
+     transform="scale(-1)" />
   <rect
      style="opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="rect820-9-6-6"
      width="31.7435"
      height="31.7435"
-     x="14.369865"
-     y="14.369873" />
+     x="-285.63013"
+     y="-285.63013"
+     transform="scale(-1)" />
   <image
      width="150"
      height="150"
