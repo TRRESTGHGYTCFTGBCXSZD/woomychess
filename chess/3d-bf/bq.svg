@@ -85,9 +85,9 @@
      inkscape:snap-page="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="1.6381307"
-     inkscape:cx="197.27756"
-     inkscape:cy="190.47699"
+     inkscape:zoom="1.1583334"
+     inkscape:cx="167.44428"
+     inkscape:cy="219.06374"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -96,15 +96,15 @@
      inkscape:snap-nodes="true"
      inkscape:snap-global="false" />
   <ellipse
-     style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.50196081;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
      id="path1187"
      cx="180"
-     cy="380.41473"
+     cy="316.92773"
      rx="104.08205"
      ry="25.638979" />
   <image
-     y="234.02142"
-     x="97.720009"
+     y="129.95888"
+     x="76.793648"
      id="image1232"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaoAAAGdCAYAAABD8DfjAAAABHNCSVQICAgIfAhkiAAAIABJREFU
 eJzsvXtYW3W69/2FkJCEQ8KhBYSS0EotWBpsa49aUnX3pBWm1XnamamgPlrfcRyY2aN772d3W/Tt
@@ -1199,7 +1199,7 @@ hWcBkdKT2hdNIiShkpCY2hhA1GmZwh6rxFhndz2SR9BIISL/tUCa6zQlkIRKQkKCD2Qq0YjIAmRT
 HMc0s2xrAWETt0EyOkx5/n/uLjny8wj5tQAAAABJRU5ErkJggg==
 "
      preserveAspectRatio="none"
-     height="162.65883"
-     width="167.77885"
-     style="stroke-width:2.53905654" />
+     height="203.23436"
+     width="209.63159"
+     style="stroke-width:2.03213644" />
 </svg>
