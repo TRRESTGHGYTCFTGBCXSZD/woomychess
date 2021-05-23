@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg815"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="gr.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\woomychess\shogi\woomyclear\gp.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24">
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs819">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Color Blindness"
+       id="filter882">
+      <feColorMatrix
+         values="0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0.299 0.587 0.114 0 0 0 0 0 1 0 "
+         type="matrix"
+         result="colormatrix1"
+         id="feColorMatrix880" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="975"
+     id="namedview817"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="1.6381307"
+     inkscape:cx="73.312098"
+     inkscape:cy="148.7017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg815"
+     inkscape:snap-global="false" />
+  <circle
+     style="opacity:1;vector-effect:none;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+     id="path812"
+     cx="150"
+     cy="150"
+     r="150" />
+  <image
+     y="83.556931"
+     x="46.712696"
+     id="image918"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABaCAYAAAB0bo6/AAAABHNCSVQICAgIfAhkiAAAAyFJREFU
+eJzt3aFuVEEYhuF3Sa+AUFcBi6snNU0VFdxARSUChQPdNGjqVlUgK3oDFUURzN4AjhSBg/QWwPxu
+/iZ/doazu+R95MnuntPTL5MvszNnZ4jdJ0//jPy8X79/zEZ+3hQerfsCtBkMggCDoGAQBMDWlRro
+K3fzF6+bYy8v3q98LXfX982x28Vhc2zTC6QjggCDoGAQBBgEhbUVmGrhG13upnB5tL/ye7O/t2p5
+c7by/9MRQYBBUDAIAgyCws4UJ8mK4TaWwKrsb3t+UCuBz04el16XzWgCzX2uFkhHBAEGQcEgCDAI
+CsPLYrUY/s9GF8P6e9vzLm/OSp/niCDAICgYBAEGQaGrLGbF8M2Xb6X3fn73sefUG+OBGb5GTzGs
+ys5xsPxQmm10RBBgEBQMggCDoDDJ19CZ6uzbNhpdDKuFNNtYkzl41RZIRwQBBkHBIAgwCApdG1x6
+ZhYzWSmqFq/qppLs+qplrEfnWsTG6B3XjggCDIKCQRBgEBS6ZhazcnJ3fd8UyCm+gq3KSmVPwc1k
+ha9ahKv3ar5sZ2bnyQaXbAb36nzPr6GVMwgCDIKCQRDwDx6dM3od4+jNIlOUxUz1eYxTFNfvy0/N
+MUcEAQZBwSAIMAgK5bJ4ev6zKYHVNXLVR8lkJSYz+hE7WUkdfY6spFbvy+iZ2exaHBEEGAQFgyDA
+ICjMspnA47dfmxdu0sxdz9rGTHbN2T3IZOetrp+snqNayqv/N8uiHmQQBBgEBYMg4IE1iz3FsFqA
+emTXt65H2FTPWy3M2T2tbly5Ot9rju0uar+U44ggwCAoGAQBBkEhLYvVmbGsxGSF5ZT2K+zRpW30
+buOu61us/tasbN8uDpv7Vy2Q2euy2WRHBAEGQcEgCDAICjs9j1upSjdynNRm2qZ4rM3oX5jp+bys
+pGb36vJof2iBdEQQYBAUDIIAg6CwtodyZ6q7ocfPSo7dzLKNv3HtiCDAICgYBAEGQWFtZTGbMcyK
+YTYreczqG3C2Uc86xipHBAEGQcEgCDAIChs1s5g9LDqTreHrWSe46aZYKuCIIMAgKBgEAQZB4S9U
+9Ouo0u8s4QAAAABJRU5ErkJggg==
+"
+     preserveAspectRatio="none"
+     height="142.40495"
+     width="205.69603"
+     style="stroke-width:0.63200051" />
+</svg>
