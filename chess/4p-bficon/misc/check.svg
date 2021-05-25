@@ -79,8 +79,8 @@
      id="rect3991"
      width="300"
      height="300"
-     x="0"
-     y="0" />
+     x="-6.9610812e-30"
+     y="5.6843419e-14" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Regra;-inkscape-font-specification:'Regra Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
@@ -93,32 +93,35 @@
        y="39.118977">!</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Regra;-inkscape-font-specification:'Regra Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
-     x="285.66632"
-     y="39.11898"
-     id="text3995-6"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Regra;-inkscape-font-specification:'Regra Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="14.318665"
+     y="-260.88101"
+     id="text3995-5"
+     transform="rotate(90)"><tspan
        sodipodi:role="line"
-       id="tspan3993-9"
-       x="285.66632"
+       id="tspan3993-2"
+       x="14.318665"
+       y="-260.88101">!</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Regra;-inkscape-font-specification:'Regra Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="-285.68134"
+     y="39.11898"
+     id="text3995-8"
+     transform="rotate(-90)"><tspan
+       sodipodi:role="line"
+       id="tspan3993-3"
+       x="-285.68134"
        y="39.11898">!</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Regra;-inkscape-font-specification:'Regra Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
-     x="14.318665"
-     y="291.00101"
-     id="text3995-2"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Regra;-inkscape-font-specification:'Regra Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+     x="-285.68134"
+     y="-260.88101"
+     id="text3995-6"
+     transform="scale(-1)"><tspan
        sodipodi:role="line"
-       id="tspan3993-3"
-       x="14.318665"
-       y="291.00101">!</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Regra;-inkscape-font-specification:'Regra Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
-     x="285.66632"
-     y="291.00101"
-     id="text3995-6-3"><tspan
-       sodipodi:role="line"
-       id="tspan3993-9-6"
-       x="285.66632"
-       y="291.00101">!</tspan></text>
+       id="tspan3993-1"
+       x="-285.68134"
+       y="-260.88101">!</tspan></text>
 </svg>
