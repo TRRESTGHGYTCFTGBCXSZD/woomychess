@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg815"
+   width="60"
+   height="60"
+   viewBox="0 0 60 60"
+   sodipodi:docname="b.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="C:\woomychess\shogi\woomyclear\gp.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24">
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs819">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Color Shift"
+       id="filter816">
+      <feColorMatrix
+         type="hueRotate"
+         values="300"
+         result="color1"
+         id="feColorMatrix812" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         result="color2"
+         id="feColorMatrix814" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="975"
+     id="namedview817"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="9.2666666"
+     inkscape:cx="36.264985"
+     inkscape:cy="41.573933"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg815"
+     inkscape:snap-global="true"
+     inkscape:snap-smooth-nodes="true" />
+  <path
+     style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+     d="M 12.647097,12.673609 30,4.7845301 47.352904,12.673609 55.240587,55.264716 H 4.7594128 Z"
+     id="rect815"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
+  <g
+     transform="translate(7.5000023,7.8418497)"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+     id="g12">
+    <g
+       style="fill:#ffffff;stroke-linecap:butt"
+       id="g8">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 9,36 c 3.39,-0.97 10.11,0.43 13.5,-2 3.39,2.43 10.11,1.03 13.5,2 0,0 1.65,0.54 3,2 -0.68,0.97 -1.65,0.99 -3,0.5 -3.39,-0.97 -10.11,0.46 -13.5,-1 C 19.11,38.96 12.39,37.53 9,38.5 7.646,38.99 6.677,38.97 6,38 7.354,36.06 9,36 9,36 Z"
+         id="path2"
+         style="fill:none" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 15,32 c 2.5,2.5 12.5,2.5 15,0 0.5,-1.5 0,-2 0,-2 0,-2.5 -2.5,-4 -2.5,-4 5.5,-1.5 6,-11.5 -5,-15.5 -11,4 -10.5,14 -5,15.5 0,0 -2.5,1.5 -2.5,4 0,0 -0.5,0.5 0,2 z"
+         id="path4"
+         style="fill:none" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 25,8 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+         id="path6"
+         style="fill:none" />
+    </g>
+    <path
+       style="stroke-linejoin:miter"
+       inkscape:connector-curvature="0"
+       d="m 17.5,26 h 10 M 15,30 H 30 M 22.5,15.5 v 5 M 20,18 h 5"
+       id="path10" />
+  </g>
+</svg>
