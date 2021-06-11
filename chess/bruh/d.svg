@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="174.55287"
-     inkscape:cy="69.310578"
+     inkscape:zoom="1.979899"
+     inkscape:cx="214.48633"
+     inkscape:cy="145.86989"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -85,16 +85,14 @@
        id="text821"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="1"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'FOT-Rowdy Std';-inkscape-font-specification:'FOT-Rowdy Std Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="40.291988"
-       y="289.5047"
-       id="text821-1"><tspan
-         sodipodi:role="line"
-         id="tspan819-9"
-         x="40.291988"
-         y="289.5047"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FOT-Rowdy Std';-inkscape-font-specification:'FOT-Rowdy Std Bold';fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">1</tspan></text>
+       id="text821-1">
+      <path
+         d="m 42.079331,289.5047 v -8.255 h -2.63525 c -0.232833,0.75142 -1.047749,1.36525 -2.148416,1.7145 l 0.47625,1.524 1.471083,-0.51858 v 5.53508 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'FOT-Rowdy Std';-inkscape-font-specification:'FOT-Rowdy Std Bold';fill:#ffffff;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path846" />
+    </g>
   </g>
 </svg>
