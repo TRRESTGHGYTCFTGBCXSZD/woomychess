@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg815"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   sodipodi:docname="soldier.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\woomychess\shogi\woomyclear\gp.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   shape-rendering="crispEdges"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs819" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview817"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="13.105046"
+     inkscape:cx="-2.8614932"
+     inkscape:cy="10.110609"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg815"
+     inkscape:snap-global="true"
+     inkscape:pagecheckerboard="0" />
+  <image
+     width="5"
+     height="10"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAYRJREFU OI3FVD1LAzEYfnJXDjsKonVw0KUohSItOrROIoIgDkcVBEFwcrLcHxB/gEUnF0WpIJXSQQRBOnqL hSIHt9yig4NFunVQivUcJDFJU+/q4gMHyft85E1yBPgPtBtJv91I+mG0EQB4q2SZOGrapJ/FZC/h CzxBO/JqTcRnhiCPjZij9GpyQc+0EGZ77UbS1zOtrroQqBIEQfZo9Mx4wqs1A4N4DfVGTZtodNBP mEpLMyKyiB56r3B6MbyOBwEQ6hLCwIg5hKjCljeGAQDX569K42+8ZsQcUizlAQBVL42qlxaMtEY/ Gibri6X8d4fHB6esw9FpG+PxNWHFJ+9SmKv4l4fsT4eqLe2u72ByZEG53SCeBQ5+7gvE6vxUz0CZ 571dvw0A7F0cCvPFiU0AwO3jmZLnwX7oSiHhA8BAapaRnXoHS7ktwXBTPoGe0tn8vX4PADAtl7BA GgYAK7mjrgAe8gJX5W02Ni2XCG9fpZDwTcslH8934R7TsTlCPWH0f8IXHl+hThTnIVsAAAAASUVO RK5CYII= "
+     id="image920"
+     x="7.5"
+     y="5"
+     style="stroke-width:2.82841;image-rendering:pixelated" />
+</svg>
