@@ -7,7 +7,7 @@
    width="20"
    height="20"
    viewBox="0 0 20 20"
-   sodipodi:docname="lulu.svg"
+   sodipodi:docname="lulu1.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    inkscape:export-filename="C:\woomychess\shogi\woomyclear\gp.png"
    inkscape:export-xdpi="24"
@@ -52,9 +52,9 @@
      inkscape:snap-page="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="26.210093"
-     inkscape:cx="9.1949312"
-     inkscape:cy="11.617662"
+     inkscape:zoom="9.2666672"
+     inkscape:cx="8.2014384"
+     inkscape:cy="2.8597121"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -63,7 +63,7 @@
      inkscape:pagecheckerboard="0" />
   <image
      width="20"
-     height="20"
+     height="10"
      preserveAspectRatio="none"
      xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAVdJREFU
 OI1jYMAB3sRa/X8Ta/WfWHEYYMRlGDJfZPExRnziyICJkGH4ADa1LORqxAVQnIxL46sP7xkYGBgY
@@ -76,6 +76,6 @@ QllADWsAAAAASUVORK5CYII=
 "
      id="image1441"
      x="0"
-     y="0"
-     style="image-rendering:pixelated" />
+     y="5"
+     style="stroke-width:1.41421;image-rendering:pixelated" />
 </svg>

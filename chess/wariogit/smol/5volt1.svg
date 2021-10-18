@@ -7,7 +7,7 @@
    width="20"
    height="20"
    viewBox="0 0 20 20"
-   sodipodi:docname="lulu.svg"
+   sodipodi:docname="5volt1.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    inkscape:export-filename="C:\woomychess\shogi\woomyclear\gp.png"
    inkscape:export-xdpi="24"
@@ -52,9 +52,9 @@
      inkscape:snap-page="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
-     inkscape:zoom="26.210093"
-     inkscape:cx="9.1949312"
-     inkscape:cy="11.617662"
+     inkscape:zoom="13.105046"
+     inkscape:cx="-2.9377997"
+     inkscape:cy="10.110609"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -63,19 +63,11 @@
      inkscape:pagecheckerboard="0" />
   <image
      width="20"
-     height="20"
+     height="10"
      preserveAspectRatio="none"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAVdJREFU
-OI1jYMAB3sRa/X8Ta/WfWHEYYMRlGDJfZPExRnziyICJkGH4ADa1LORqxAVQnIxL46sP7xkYGBgY
-xAQEsRqC7HW8LnwUpA1nc8w7gsKXW3cVqx6sBiJrhIEfSTZY1aAbjBFL59anEh1eDAwMDEaBs1HM
-QIlldMPu376OYQC6GLoejGSDyyBi1cANJNWryABZL9ZI8Y9sZ2BgYGDQM8GUg4npmTAwXDqzCLsL
-sbnOO6mJwTupCUMDLnGYGUyEvIqsGZtB6IZijRQGBgYGX3kJhh27djFsnVcHF9s6rw4ujgsw4YvR
-qalxJInfv30dkrDXdtn8Z2BgYFBU1YRLqomGMnDIc6JoON/6iMGwWo7hx8PvDLder0YxiIGBgSG4
-7AgjSiqHGexuBfEmzMDzrY/gamAGMjAwMOw81gQ3CCaPtYBlYGBg+PP4MN7IYpG1xamXqgAAYs2P
-QllADWsAAAAASUVORK5CYII=
-"
-     id="image1441"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABHNCSVQICAgIfAhkiAAAAWRJREFU OI2tlL9qwlAUxr8bQkG6CxksFCTQUgh3cCk4tlvrID6BUIQ4tE6BzoVODhJBhDyBZNBXEFw6iGvH Zih0l0IQTof2XvLn3hixHwTCuef7nZN7DgH+WazoMBw6pDtrDzZKrxZYBCsC54BlQTqocSwsKwnM wj6/vktDkl5Dl9Rzg1ysTBEtUAXoucFeKAOAeMEJjb/IGzBdbWWHk3EXVrUiDa2Oj/msDwC4qxtI +k7u1yzfYQN4uD4t7KrV8dMwlXzPpnjBKV5w2kVLery5ICKiXbSUj+/ZqbjI9z07P5SeG2C62sLg I1nk6fYyVVRcg4gbfJS6HgAwdR1f1c8PigvJDd9Fy6OW2qw1GZD4ZLPWZGJ6Sa1fPpTvQvNZX8IA gIVDh9qDDQuHDolpZpdagPjzWSo+GXcBAFa1AsFgvmeTVa0ol7hIAiYkGAz4XZmsof/6Xviv1HmY KmkfTAUt6zlYP0Jbr6XRK+CDAAAAAElFTkSuQmCC "
+     id="image910"
      x="0"
-     y="0"
-     style="image-rendering:pixelated" />
+     y="5"
+     style="stroke-width:1.41421;image-rendering:pixelated" />
 </svg>
