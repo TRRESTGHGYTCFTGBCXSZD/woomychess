@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg815"
+   width="20"
+   height="20"
+   viewBox="0 0 20 20"
+   sodipodi:docname="place.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:export-filename="C:\woomychess\shogi\woomyclear\gp.png"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   shape-rendering="crispEdges"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata821">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs819" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview817"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="32"
+     inkscape:cx="9.421875"
+     inkscape:cy="9.828125"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg815"
+     inkscape:snap-global="true"
+     inkscape:pagecheckerboard="0" />
+  <path
+     id="rect1207"
+     style="fill:#808080;fill-opacity:0.501961;stroke:none;stroke-width:1.5;stroke-miterlimit:10;-inkscape-stroke:none;stop-color:#000000"
+     d="M 9 1 L 9 2 L 8 2 L 8 3 L 7 3 L 7 4 L 6 4 L 6 5 L 5 5 L 5 6 L 4 6 L 4 7 L 3 7 L 3 8 L 2 8 L 2 9 L 1 9 L 1 11 L 2 11 L 2 12 L 3 12 L 3 13 L 4 13 L 4 14 L 5 14 L 5 15 L 6 15 L 6 16 L 7 16 L 7 17 L 8 17 L 8 18 L 9 18 L 9 19 L 11 19 L 11 18 L 12 18 L 12 17 L 13 17 L 13 16 L 14 16 L 14 15 L 15 15 L 15 14 L 16 14 L 16 13 L 17 13 L 17 12 L 18 12 L 18 11 L 19 11 L 19 9 L 18 9 L 18 8 L 17 8 L 17 7 L 16 7 L 16 6 L 15 6 L 15 5 L 14 5 L 14 4 L 13 4 L 13 3 L 12 3 L 12 2 L 11 2 L 11 1 L 9 1 z " />
+</svg>
